@@ -1,3 +1,3 @@
 # merge-conflict
 
-alterar essa linha
+Consertado todos os problemas
