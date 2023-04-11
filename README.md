@@ -1,3 +1,3 @@
-# merge-conflict
+# ⚠️ Merge conflict
 
 *Aqui está o seu maior pesadelo!*
